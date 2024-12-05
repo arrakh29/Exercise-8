@@ -40,3 +40,6 @@ Proyek ini bertujuan untuk mendemonstrasikan cara mengeliminasi kontensi sumber 
 1. **Ganti `taskENTER_CRITICAL()` dengan:**
    ```c
    osSemaphoreWait(CriticalResourceSemaphoreHandle, WaitTimeMilliseconds);
+
+## Uji Coba
+<img src="Ex_8.gif" alt="Uji Coba GIF" style="max-width: 600px; height: auto">
